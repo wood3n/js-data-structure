@@ -20,3 +20,19 @@ instance.__proto__.__proto__.__proto__.__proto__ === null;
 
 ![单链表](../../assets/img/2023-02-02-21-40-49.png)
 
+# 双向链表
+
+
+
+# 循环链表
+
+
+
+# 算法题
+
+[21. 合并两个有序链表 - 力扣（LeetCode）](https://leetcode.cn/problems/merge-two-sorted-lists/)
+
+[206. 反转链表 - 力扣（LeetCode）](https://leetcode.cn/problems/reverse-linked-list/)
+
+[237. 删除链表中的节点 - 力扣（LeetCode）](https://leetcode.cn/problems/delete-node-in-a-linked-list/)
+
