@@ -3,6 +3,7 @@ module.exports = {
     node: true,
     browser: true,
     es2021: true,
+    jest: true,
   },
   extends: 'airbnb-base',
   overrides: [
@@ -16,5 +17,6 @@ module.exports = {
     'import/prefer-default-export': 0,
     'no-console': 0,
     'import/extensions': 0, // node esmodule require extension
+    'no-lonely-if': 0,
   },
 };

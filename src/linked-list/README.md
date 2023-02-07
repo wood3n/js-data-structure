@@ -2,4 +2,8 @@
 
 ## 单链表
 
-![单链表](../../assets/img/2023-02-02-21-40-49.png)
+![单链表](../../assets/img/singly-linked-list.png)
+
+### 单链表反转
+
+![单链表反转](../../assets/img/reverse-linked-list.png)
