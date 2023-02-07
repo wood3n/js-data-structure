@@ -18,5 +18,6 @@ module.exports = {
     'no-console': 0,
     'import/extensions': 0, // node esmodule require extension
     'no-lonely-if': 0,
+    'no-plusplus': 0,
   },
 };
