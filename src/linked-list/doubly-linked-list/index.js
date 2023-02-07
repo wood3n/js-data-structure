@@ -85,28 +85,7 @@ class DoublyLinkedList {
   }
 
   remove(index) {
-    const nodeIndex = index < 0 ? 0 : index;
-    if (nodeIndex === 0 && this.head) {
-      if (this.head.next) {
-        this.head.next.prev = null;
-      } else {
-        this.tail = null;
-      }
-      this.head = this.head.next;
-    }
 
-    const currentNode = this.head;
-    const count = 0;
-
-    while (currentNode) {
-      if (nodeIndex === count) {
-        if (currentNode.next) {
-
-        }
-      }
-    }
-
-    return this;
   }
 }
 
